@@ -5,9 +5,9 @@ def main():
     if x== 0:
         print("Es cero")
     elif x > 0:
-        print("es positivo")
+        print("Es positivo")
     elif x < 0:
-        print(" es negativo")
+        print("Es negativo")
         
     pass
     
